@@ -8,6 +8,8 @@
 
 В настоящий момент работаю с Python (*Pandas, NymPy, Matplotlib, Seaborn*) и SQL (*Postgresql*).  
 
+[Тут](https://github.com/sirvoewodin/portfolio) мое портфолио.  
+
 Связаться со мной можно через:  
 > - telegram [@sirvoewodin](http://t.me/sirvoewodin)  
 > - по почте <sirvoewodinv@gmail.com>
